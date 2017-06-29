@@ -18,6 +18,7 @@ namespace ConsoleApp1
             Console.WriteLine("Git is real good");
 
             // test
+            // another comment
         }
     }
 }
